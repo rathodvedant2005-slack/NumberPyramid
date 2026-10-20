@@ -11,10 +11,15 @@ The program prints a number pyramid where the numbers increase up to the middle 
 For example, if the user enters `5`, the output looks like this:
 
 text
+
     1
+    
    121
+   
   12321
+  
  1234321
+ 
 123454321
 
 
@@ -69,8 +74,11 @@ text
 Enter number of rows (1-9): 4
 
    1
+   
   121
+  
  12321
+ 
 1234321
 
 Verification passed: every row is correct (rows checked: 4)
